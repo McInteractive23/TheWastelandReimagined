@@ -1,0 +1,12 @@
+{
+
+  "creativetab.wasteland": "The Wasteland",
+
+  "item.wasteland.meteor_gem": "Meteor Gem",
+  "item.wasteland.blue_meteor_gem": "Blue Meteor Gem",
+
+  "block.wasteland.meteorite": "Meteorite",
+  "block.wasteland.hot_meteorite": "Hot Meteorite",
+  "block.wasteland.meteor_gem_block": "Meteor Gem Block",
+  "block.wasteland.blue_meteor_gem_block": "Blue Meteor Gem Block"
+}
