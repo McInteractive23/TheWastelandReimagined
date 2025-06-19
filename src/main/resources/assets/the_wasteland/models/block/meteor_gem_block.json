@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "the_wasteland:block/meteor_gem_block"
+  }
+}

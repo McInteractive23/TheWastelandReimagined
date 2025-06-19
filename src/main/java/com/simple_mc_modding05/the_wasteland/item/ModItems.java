@@ -14,6 +14,9 @@ public class ModItems {
     public static final RegistryObject<Item> METEOR_GEM = ITEMS.register("meteor_gem",
             () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> BLUE_METEOR_GEM = ITEMS.register("blue_meteor_gem",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventbus) {
         ITEMS.register(eventbus);
     }
