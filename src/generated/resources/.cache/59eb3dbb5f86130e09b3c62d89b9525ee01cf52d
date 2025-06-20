@@ -1,0 +1,5 @@
+// 1.20.1	2025-06-20T02:35:32.4315245	Loot Tables
+d103f7df828d6435c7c03a1204335df752db3bde data/wasteland/loot_tables/blocks/blue_meteor_gem_block.json
+279322f316803f17a66925867b818a64ca532494 data/wasteland/loot_tables/blocks/hot_meteorite.json
+2d37ecf298b74b3cad4e519806a7676651fb8b6d data/wasteland/loot_tables/blocks/meteorite.json
+1fcc71ba540606dd771421a6531e6338e556738f data/wasteland/loot_tables/blocks/meteor_gem_block.json

@@ -1,0 +1,4 @@
+// 1.20.1	2025-06-20T02:35:32.4504414	Tags for minecraft:block mod id wasteland
+29e0b619ca6864941b7e2ccbb08462912d203ee1 data/forge/tags/blocks/needs_netherite_tool.json
+e9afe7623fb245ce37b059e8b6fea11b13aa4007 data/minecraft/tags/blocks/mineable/pickaxe.json
+4760962d8ae97f3aef0141a77f1592a64d524941 data/minecraft/tags/blocks/needs_iron_tool.json

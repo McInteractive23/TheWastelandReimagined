@@ -1,0 +1,13 @@
+// 1.20.1	2025-06-20T02:35:32.4117999	Block States: wasteland
+27199385a323c5e9dcd620b15f49d83d66849eeb assets/wasteland/blockstates/blue_meteor_gem_block.json
+b78cec65035968f05a75896bacd381f2366ca050 assets/wasteland/blockstates/hot_meteorite.json
+6727c6fabc8c6ba555950d8648d4d7beb5200a83 assets/wasteland/blockstates/meteorite.json
+97a89400d5a6f67362b80adb529629656b88f32d assets/wasteland/blockstates/meteor_gem_block.json
+477c948002b16476704960abca8a47db1e1fb485 assets/wasteland/models/block/blue_meteor_gem_block.json
+4ab910db4640b40ef983e1a872cab4ee089d9fc5 assets/wasteland/models/block/hot_meteorite.json
+c7259e61303d4ea2f52fdaa64dad96c780609549 assets/wasteland/models/block/meteorite.json
+e4acf091058f88198ced52c1dfe792710110bab9 assets/wasteland/models/block/meteor_gem_block.json
+f9f95d0c3d44ae47b13b955c0456ebe65f20d9d8 assets/wasteland/models/item/blue_meteor_gem_block.json
+19db17827738574835337e4bbce051304e893903 assets/wasteland/models/item/hot_meteorite.json
+e4b6fd4be311ce7c5a7beafbea64720e4e440fde assets/wasteland/models/item/meteorite.json
+853aec3d70ef7535ee52f7bf8c8a991282e6d88e assets/wasteland/models/item/meteor_gem_block.json
