@@ -18,6 +18,8 @@ public class ModItemModelProvider extends ItemModelProvider {
     protected void registerModels() {
         SimpleItem(ModItems.METEOR_GEM);
         SimpleItem(ModItems.BLUE_METEOR_GEM);
+
+        SimpleItem(ModItems.TOXIC_WATER_BUCKET);
     }
 
     private void SimpleItem(RegistryObject<Item> item) {

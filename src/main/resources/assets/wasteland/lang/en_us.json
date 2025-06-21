@@ -5,8 +5,13 @@
   "item.wasteland.meteor_gem": "Meteor Gem",
   "item.wasteland.blue_meteor_gem": "Blue Meteor Gem",
 
+  "item.wasteland.toxic_water_bucket": "Toxic Water Bucket",
+
   "block.wasteland.meteorite": "Meteorite",
   "block.wasteland.hot_meteorite": "Hot Meteorite",
   "block.wasteland.meteor_gem_block": "Meteor Gem Block",
-  "block.wasteland.blue_meteor_gem_block": "Blue Meteor Gem Block"
+  "block.wasteland.blue_meteor_gem_block": "Blue Meteor Gem Block",
+
+  "fluid_type.wasteland.toxic_water_fluid": "Toxic Water"
+
 }

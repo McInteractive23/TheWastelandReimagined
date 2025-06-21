@@ -1,11 +1,13 @@
 package com.simple_mc_modding05.wasteland.block;
 
 import com.simple_mc_modding05.wasteland.TheWasteland;
+import com.simple_mc_modding05.wasteland.fluid.ModFluids;
 import com.simple_mc_modding05.wasteland.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.LiquidBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -31,6 +33,10 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> BLUE_METEOR_GEM_BLOCK = registerBlock("blue_meteor_gem_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
+
+
+    public static final RegistryObject<LiquidBlock> TOXIC_WATER_BLOCK = BLOCKS.register("toxic_water_block",
+            () -> new LiquidBlock(ModFluids.SOURCE_TOXIC_WATER, BlockBehaviour.Properties.copy(Blocks.WATER).noLootTable()));
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
